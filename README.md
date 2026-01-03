@@ -50,6 +50,7 @@ Those can be added later, but they are intentionally excluded here.
 │ ├── schemas.py # Pydantic request/response models
 │ ├── loaders.py # Document loaders (PDF, CSV, web)
 │ ├── vectorstore.py # FAISS index creation and loading
+│ ├── main.py
 │ └── ui.py # Placeholder (not wired intentionally)
 │
 ├── data/
